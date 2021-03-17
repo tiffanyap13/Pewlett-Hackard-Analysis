@@ -5,7 +5,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
  - Over 90,000 team members are expected to retire.
  - More than half of those retiring are made up of Senior Engineers (approx. 29,000) and Senior Staff (approx. 28,000).
 ### Retirement Analysis Table
-******
+ ![Retiring by Title](Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Data/Retiring_by_title.png)
  - 
  - Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 ### Mentorship Analysis Table
